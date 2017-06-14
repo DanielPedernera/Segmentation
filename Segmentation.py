@@ -1,3 +1,5 @@
+#https://www.youtube.com/watch?v=_gfNpJmWIug
+
 import cv2, sys
 import numpy as np
 
